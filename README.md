@@ -18,14 +18,14 @@ For comprehensive instructions on how to install and run project, please, refer 
 
  
 
-####Basic Build instructions
+#### Basic Build instructions
     $ mkdir build && cd build
     $ cmake .. && make
     $ ./particle_filter
 
 Or use the `$ bash build_and_run.sh` provided to execute the above commands.
 
-###Final results after Particle Filter:
+### Final results after Particle Filter:
 
 On the simulator: 
 
