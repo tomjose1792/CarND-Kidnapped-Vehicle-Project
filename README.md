@@ -19,6 +19,9 @@ For comprehensive instructions on how to install and run project, please, refer 
  
 
 #### Basic Build instructions
+
+Program files available in the ###src folder
+
     $ mkdir build && cd build
     $ cmake .. && make
     $ ./particle_filter
